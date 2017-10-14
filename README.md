@@ -1,5 +1,5 @@
 # wojtekss.github.io
   ## O mnie
-  Jestem początkującym programistąS
+  Jestem początkującym programistą
   ## Moje projekty
 CAN-BUS
